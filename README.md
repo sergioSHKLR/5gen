@@ -1,4 +1,4 @@
-# Uma das cinco partes de Doutrina.org
+# EM BREVE!
 
 A Gênese (ISBN 978-85-7328-732-5) digitalizada (manualmente, de parágrafo em parágrafo) em duas opções:
 
