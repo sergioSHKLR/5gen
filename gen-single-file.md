@@ -2,11 +2,11 @@
 
 `lde`
 
-# [O LIVRO DOS ESPÍRITOS](#lde)
+# O LIVRO DOS ESPÍRITOS](#lde)
 `lde.0`
-## [Parte 0. Pré-textual](#lde.0)
+## Parte 0. Pré-textual
 
-### [Folha de rosto](#lde.0.1)
+### Folha de rosto
 
 *Filosofia Espiritualista*
 
@@ -27,7 +27,7 @@ Título do original francês
 ---
 
 
-### [Avisos legais](#lde.0.2)
+### Avisos legais
 Nossos projetos almejam intensificar a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec.
 
 Em primeiro lugar, não exercemos direitos sobre a obra original, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários ou herdeiros.
@@ -68,10 +68,10 @@ Nota: A licença acima se aplica somente à diagramação, uso de painéis, core
 ---
 
 
-### [Introdução](#lde.0.3)
+### Introdução
 ---
 
-#### [Introdução 01](#lde.0.3.01)
+#### Introdução 01
 
 Para se designarem coisas novas são precisos termos novos. Assim o exige a clareza da linguagem, para evitar a confusão inerente à variedade de sentidos das mesmas palavras. Os vocábulos **espiritual**, **espiritualista**, **espiritualismo** têm acepção bem definida. Dar-lhes outra, para aplicá-los à Doutrina dos Espíritos, fora multiplicar as causas já numerosas de anfibologia. Com efeito, o espiritualismo é o oposto do materialismo. Quem quer que acredite haver em si alguma coisa mais do que matéria, é espiritualista. Não se segue daí, porém, que creia na existência dos Espíritos ou em suas comunicações com o mundo visível. Em vez das palavras **espiritual**, **espiritualismo**, empregamos, para indicar a crença a que vimos de referir-nos, os termos **espírita** e **espiritismo**, cuja forma lembra a origem e o sentido radical e que, por isso mesmo, apresentam a vantagem de ser perfeitamente inteligíveis, deixando ao vocábulo **espiritualismo** a acepção que lhe é própria. Diremos, pois, que a Doutrina **Espírita** ou o **Espiritismo** tem por princípio as relações do mundo material com os Espíritos ou seres do mundo invisível. Os adeptos do Espiritismo serão os **espíritas**, ou, se quiserem, os **espiritistas**.
 
@@ -80,7 +80,7 @@ Como especialidade, **O Livro dos Espíritos** contém a Doutrina Espírita; com
 ---
 
 
-#### [Introdução 02](#lde.0.3.02)
+#### Introdução 02
 
 Há outra palavra acerca da qual importa igualmente que todos se entendam, por constituir um dos fechos de abóbada de toda doutrina moral e ser objeto de inúmeras controvérsias, à míngua de uma acepção bem determinada. É a palavra **alma**. A divergência de opiniões sobre a natureza da alma provém da aplicação particular que cada um dá a esse termo. Uma língua perfeita, em que cada ideia fosse expressa por um termo próprio, evitaria muitas discussões. Com uma palavra para cada coisa, todos se entenderiam.
 
@@ -109,7 +109,7 @@ Passemos agora ao objeto principal desta instrução preliminar.
 ---
 
 
-#### [Introdução 03](#lde.0.3.03)
+#### Introdução 03
 
 Como tudo que constitui novidade, a Doutrina Espírita conta adeptos e contraditores. Vamos tentar responder a algumas das objeções destes últimos, examinando o valor dos motivos em que se apoiam sem alimentarmos, todavia, a pretensão de convencer a todos, pois muitos há que creem ter sido a luz feita exclusivamente para eles. Dirigimo-nos aos de boa-fé, aos que não trazem ideias preconcebidas ou decididamente firmadas contra tudo e todos, aos que sinceramente desejam instruir-se e lhes demonstraremos que a maior parte das objeções opostas à doutrina promanam de incompleta observação dos fatos e de juízo leviano e precipitadamente formado.
 
@@ -138,7 +138,7 @@ Objetam, porém, algumas pessoas: há frequentemente fraudes manifestas. Pergunt
 ---
 
 
-#### [Introdução 04](#lde.0.3.04)
+#### Introdução 04
 
 Se os fenômenos, com que nos estamos ocupando, houvessem ficado restritos ao movimento dos objetos, teriam permanecido, como dissemos, no domínio das ciências físicas. Assim, entretanto, não sucedeu: estava-lhes reservado colocar-nos na pista de fatos de ordem singular. Acreditaram haver descoberto, não sabemos pela iniciativa de quem, que a impulsão dada aos objetos não era apenas o resultado de uma força mecânica cega; que havia nesse movimento a intervenção de uma causa inteligente. Uma vez aberto, esse caminho conduziu a um campo totalmente novo de observações. De sobre muitos mistérios se erguia o véu. Haverá, com efeito, no caso, uma potência inteligente? Tal a questão. Se essa potência existe, qual é ela, qual a sua natureza, a sua origem? Encontra-se acima da Humanidade? Eis outras questões que decorrem da anterior
 
@@ -161,7 +161,7 @@ A cesta ou a prancheta só podem ser postas em movimento debaixo da influência 
 ---
 
 
-#### [Introdução 05](#lde.0.3.05)
+#### Introdução 05
 
 Reconheceu-se mais tarde que a cesta e a prancheta não eram, realmente, mais do que um apêndice da mão; e o médium, tomando diretamente do lápis, se pôs a escrever por um impulso involuntário e quase febril. Dessa maneira, as comunicações se tornaram mais rápidas, mais fáceis e mais completas. Hoje é esse o meio geralmente empregado e com tanto mais razão quanto o número das pessoas dotadas dessa aptidão é muito considerável e cresce todos os dias. Finalmente, a experiência deu a conhecer muitas outras variedades da faculdade mediadora, vindo-se a saber que as comunicações podiam igualmente ser transmitidas pela palavra, pela audição, pela visão, pelo tato etc., e até pela escrita direta dos Espíritos, isto é, sem o concurso da mão do médium, nem do lápis.
 
@@ -178,7 +178,7 @@ Muitas teorias foram engendradas a este respeito. Examiná-las-emos dentro em po
 ---
 
 
-#### [Introdução 06](#lde.0.3.06)
+#### Introdução 06
 
 Conforme notamos acima, os próprios seres que se comunicam se designam a si mesmos pelo nome de Espíritos ou gênios, declarando, alguns, pelo menos, terem pertencido a homens que viveram na Terra. Eles compõem o mundo espiritual, como nós constituímos o mundo corporal durante a vida terrena.
 
@@ -260,7 +260,7 @@ Este o resumo da Doutrina Espírita, como resulta dos ensinamentos dados pelos E
 ---
 
 
-#### [Introdução 07](#lde.0.3.07)
+#### Introdução 07
 
 Para muita gente, a oposição das corporações científicas constitui, senão uma prova, pelo menos forte presunção contra o que quer que seja. Não somos dos que se insurgem contra os sábios, pois não queremos dar azo a que de nós digam que escouceamos. Temo-los, ao contrário, em grande apreço e muito honrados nos julgaríamos se fôssemos contados entre eles. Suas opiniões, porém, não podem representar, em todas as circunstâncias, uma sentença irrevogável.
 
@@ -281,7 +281,7 @@ O homem que julga infalível a sua razão está bem perto do erro. Mesmo aqueles
 ---
 
 
-#### [Introdução 08](#lde.0.3.08)
+#### Introdução 08
 
 Acrescentemos que o estudo de uma doutrina, qual a Doutrina Espírita, que nos lança de súbito numa ordem de coisas tão nova quão grande, só pode ser feito com utilidade por homens sérios, perseverantes, livres de prevenções e animados de firme e sincera vontade de chegar a um resultado. Não sabemos como dar esses qualificativos aos que julgam a priori, levianamente, sem tudo ter visto; que não imprimem a seus estudos a continuidade, a regularidade e o recolhimento indispensáveis. Ainda menos saberíamos dá-los a alguns que, para não decaírem da reputação de homens de espírito, se afadigam por achar um lado burlesco nas coisas mais verdadeiras, ou tidas como tais por pessoas cujo saber, caráter e convicções lhes dão direito à consideração de quem quer que se preze de bem-educado. Abstenham-se, portanto, os que entendem não serem dignos de sua atenção os fatos. Ninguém pensa em lhes violentar a crença; concordem, pois, em respeitar a dos outros.
 
@@ -292,7 +292,7 @@ Dissemos que os Espíritos superiores somente às sessões sérias acorrem, sobr
 ---
 
 
-#### [Introdução 09](#lde.0.3.09)
+#### Introdução 09
 
 O movimento dos objetos é um fato incontestável. A questão está em saber se, nesse movimento, há ou não uma manifestação inteligente e, em caso de afirmativa, qual a origem dessa manifestação.
 
@@ -305,7 +305,7 @@ Dizem então que, se não há fraude, pode haver ilusão de ambos os lados. Em b
 ---
 
 
-#### [Introdução 10](#lde.0.3.10)
+#### Introdução 10
 
 Entre as objeções, algumas há das mais especiosas, ao menos na aparência, porque tiradas da observação e feitas por pessoas respeitáveis.
 
@@ -322,7 +322,7 @@ Efetivamente, como acreditar que Deus só ao Espírito do mal permita que se man
 ---
 
 
-#### [Introdução 11](#lde.0.3.11)
+#### Introdução 11
 
 Esquisito é, acrescentam, que só se fale dos Espíritos de personagens conhecidas e perguntam por que são eles os únicos a se manifestarem. Há ainda aqui um erro, oriundo, como tantos outros, de superficial observação. Dentre os Espíritos que vêm espontaneamente, muito maior é, para nós, o número dos desconhecidos do que o dos ilustres, designando-se aqueles por um nome qualquer, muitas vezes por um nome alegórico ou característico. Quanto aos que se evocam, desde que não se trate de parente ou amigo, é muito natural nos dirijamos aos que conhecemos, de preferência a chamar pelos que nos são desconhecidos. O nome das personagens ilustres atrai mais a atenção, por isso é que são notadas.
 
@@ -331,7 +331,7 @@ Acham também singular que os Espíritos dos homens eminentes acudam familiarmen
 ---
 
 
-#### [Introdução 12](#lde.0.3.12)
+#### Introdução 12
 
 Um fato demonstrado pela observação e confirmado pelos próprios Espíritos é o de que os Espíritos inferiores muitas vezes usurpam nomes conhecidos e respeitados. Quem pode, pois, afirmar que os que dizem ter sido, por exemplo, Sócrates, Júlio César, Carlos Magno, Fénelon, Napoleão, Washington entre outros, tenham realmente animado essas personagens? Esta dúvida existe mesmo entre alguns adeptos fervorosos da Doutrina Espírita, os quais admitem a intervenção e a manifestação dos Espíritos, mas inquirem como se lhes pode comprovar a identidade. Semelhante prova é, de fato, bem difícil de produzir-se. Conquanto, porém, não o possa ser de modo tão autêntico como por uma certidão de registro civil, pode-o ao menos por presunção, segundo certos indícios.
 
@@ -352,7 +352,7 @@ Não sendo lícito provocarem-se os fatos, tem-se que esperar que eles se aprese
 ---
 
 
-#### [Introdução 13](#lde.0.3.13)
+#### Introdução 13
 
 As observações que aí ficam nos levam a dizer alguma coisa acerca de outra dificuldade, a da divergência que se nota na linguagem dos Espíritos.
 
@@ -367,14 +367,14 @@ Tomemos, por exemplo, a definição de alma. Carecendo este termo de uma acepç�
 ---
 
 
-#### [Introdução 14](#lde.0.3.14)
+#### Introdução 14
 
 Passaríamos brevemente pela objeção que fazem alguns céticos, a propósito das faltas ortográficas que certos Espíritos cometem, se ela não oferecesse margem a uma observação essencial. A ortografia deles, cumpre dizê-lo, nem sempre é irreprochável, mas grande escassez de razões seria mister para se fazer disso objeto de crítica séria, dizendo que, visto saberem tudo, os Espíritos devem saber ortografia. Poderíamos opor-lhes os múltiplos pecados desse gênero cometidos por mais de um sábio da Terra, o que, entretanto, em nada lhes diminui o mérito. Há, porém, no fato, uma questão mais grave. Para os Espíritos, principalmente para os Espíritos superiores, a ideia é tudo, a forma nada vale. Livres da matéria, a linguagem de que usam entre si é rápida como o pensamento, porquanto são os próprios pensamentos que se comunicam sem intermediário. Muito pouco à vontade hão de eles se sentirem, quando obrigados, para se comunicarem conosco, a utilizarem-se das formas longas e embaraçosas da linguagem humana e a lutarem com a insuficiência e a imperfeição dessa linguagem, para exprimirem todas as ideias. É o que eles próprios declaram. Por isso mesmo, bastante curiosos são os meios de que se servem com frequência para obviarem a esse inconveniente. O mesmo se daria conosco, se houvéssemos de exprimir-nos num idioma de vocábulos e fraseados mais longos e de maior pobreza de expressões do que o de que usamos. É o embaraço que experimenta o homem de gênio, para quem constitui motivo de impaciência a lentidão da sua pena sempre muito atrasada no lhe acompanhar o pensamento. Compreende-se, diante disto, que os Espíritos liguem pouca importância à puerilidade da ortografia, mormente quando se trata de ensino profundo e grave. Já não é maravilhoso que se exprimam indiferentemente em todas as línguas e que as entendam todas? Não se conclua daí, todavia, que desconheçam a correção convencional da linguagem. Observam-na, quando necessário. Assim é, por exemplo, que a poesia por eles ditada desafiaria quase sempre a crítica do mais meticuloso purista, **a despeito da ignorância do médium**.
 
 ---
 
 
-#### [Introdução 15](#lde.0.3.15)
+#### Introdução 15
 
 Há também pessoas que vêem perigo por toda parte e em tudo o que não conhecem. Daí a pressa com que, do fato de haverem perdido a razão alguns dos que se entregaram a estes estudos, tiram conclusões desfavoráveis ao Espiritismo. Como é que homens sensatos enxergam nisto uma objeção valiosa? Não se dá o mesmo com todas as preocupações de ordem intelectual que empolguem um cérebro fraco? Quem será capaz de precisar quantos loucos e maníacos os estudos da Matemática, da Medicina, da Música, da Filosofia e outros têm produzido? Dever-se-ia, em consequência, banir esses estudos? Que prova isso? Nos trabalhos corporais, estropiam-se os braços e as pernas, que são os instrumentos da ação material; nos trabalhos da inteligência, estropia-se o cérebro, que é o do pensamento. Mas, por se haver quebrado o instrumento, não se segue que o mesmo tenha acontecido ao Espírito. Este permanece intacto e, desde que se liberte da matéria, gozará, tanto quanto qualquer outro, da plenitude das suas faculdades. No seu gênero, ele é, como homem, um mártir do trabalho.
 
@@ -389,7 +389,7 @@ Cumpre também colocar entre as causas da loucura o pavor, sendo que o do diabo 
 ---
 
 
-#### [Introdução 16](#lde.0.3.16)
+#### Introdução 16
 
 Resta-nos ainda examinar duas objeções, únicas que realmente merecem este nome, porque se baseiam em teorias racionais. Ambas admitem a realidade de todos os fenômenos materiais e morais, mas excluem a intervenção dos Espíritos.
 
@@ -415,7 +415,7 @@ Perguntaremos, finalmente, por que os Espíritos vêm e vão-se, muitas vezes, e
 ---
 
 
-#### [Introdução 17](#lde.0.3.17)
+#### Introdução 17
 
 O ceticismo, no tocante à Doutrina Espírita, quando não resulta de uma oposição sistemática por interesse, origina-se quase sempre do conhecimento incompleto dos fatos, o que não obsta a que alguns cortem a questão como se a conhecessem a fundo. Pode-se ter muito atilamento, muita instrução mesmo, e carecer-se de bom senso. Ora, o primeiro indício da falta de bom senso está em crer alguém infalível o seu juízo. Há também muita gente para quem as manifestações espíritas nada mais são do que objeto de curiosidade. Confiamos em que, lendo este livro, encontrarão nesses extraordinários fenômenos alguma coisa mais do que simples passatempo.
 A ciência espírita compreende duas partes: experimental uma, relativa às manifestações em geral; filosófica, outra, relativa às manifestações inteligentes. Aquele que apenas haja observado a primeira se acha na posição de quem não conhecesse a Física senão por experiências recreativas, sem haver penetrado no âmago da ciência. A verdadeira Doutrina Espírita está no ensino que os Espíritos deram, e os conhecimentos que esse ensino comporta são por demais profundos e extensos para serem adquiridos de qualquer modo, que não por um estudo perseverante, feito no silêncio e no recolhimento. Porque, só dentro desta condição se pode observar um número infinito de fatos e particularidades que passam despercebidos ao observador superficial, e firmar opinião. Não produzisse este livro outro resultado além do de mostrar o lado sério da questão e de provocar estudos neste sentido e rejubilaríamos por haver sido eleito para executar uma obra em que, aliás, nenhum mérito pessoal pretendemos ter, pois que os princípios nela exarados não são de criação nossa. O mérito que apresenta cabe todo aos Espíritos que a ditaram. Esperamos que dará outro resultado, o de guiar os homens que desejem esclarecer-se, mostrando-lhes, nestes estudos, um fim grande e sublime: o do progresso individual e social e o de lhes indicar o caminho que conduz a esse fim.
@@ -430,7 +430,7 @@ Concluamos, fazendo uma última consideração. Alguns astrônomos, sondando o e
 ---
 
 
-### [Prolegômenos](#lde.0.4)
+### Prolegômenos
 
 Fenômenos alheios às leis da ciência humana se dão por toda parte, revelando na causa que os produz a ação de uma vontade livre e inteligente.
 
@@ -471,12 +471,12 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 `lde.1`
-## [Parte 1. Das causas primárias](#lde.1)
+## Parte 1. Das causas primárias
 
-### [1. De Deus](#lde.1.1)
+### 1. De Deus
 ---
 
-#### [Deus e o infinito](#lde.1.1.01)
+#### Deus e o infinito
 
 [1](#lde.Q1). O que é Deus?
 
@@ -498,7 +498,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 
-#### [Provas da existência de Deus](#lde.1.1.02)
+#### Provas da existência de Deus
 
 [4](#lde.q4). Onde se pode encontrar a prova da existência de Deus?
 
@@ -535,7 +535,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 
-#### [Atributos da Divindade](#lde.1.1.03)
+#### Atributos da Divindade
 
 [10](#lde.q10). Pode o homem compreender a natureza íntima de Deus?
 
@@ -563,7 +563,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 
-#### [Panteísmo](#lde.1.1.04)
+#### Panteísmo
 
 [14](#lde.q14). Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
 
@@ -582,10 +582,10 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 
-### [2. Dos elementos gerais do Universo](#lde.1.2)
+### 2. Dos elementos gerais do Universo
 ---
 
-#### [Conhecimento do princípio das coisas](#lde.1.2.01)
+#### Conhecimento do princípio das coisas
 
 [17](#lde.q17). É dado ao homem conhecer o princípio das coisas?
 
@@ -608,7 +608,7 @@ Eis em que termos nos deram, por escrito e por muitos médiuns, a missão de esc
 ---
 
 
-#### [Espírito e matéria](#lde.1.2.02)
+#### Espírito e matéria
 
 [21](#lde.q21). A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
 
@@ -665,7 +665,7 @@ Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário
 ---
 
 
-#### [Propriedades da matéria](#lde.1.2.03)
+#### Propriedades da matéria
 
 [29](#lde..q29). A ponderabilidade é um atributo essencial da matéria?
 
@@ -711,7 +711,7 @@ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramo
 ---
 
 
-#### [Espaço universal](#lde.1.2.04)
+#### Espaço universal
 
 35. O Espaço universal é infinito ou limitado?
 
@@ -726,10 +726,10 @@ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque,
 ---
 
 
-### [3. Da Criação](#lde.1.3)
+### 3. Da Criação
 ---
 
-#### [Formação dos mundos](#lde.1.3.01)
+#### Formação dos mundos
 
 *O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.*
 
@@ -761,7 +761,7 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 ---
 
 
-#### [Formação dos seres vivos](#lde.1.3.02)
+#### Formação dos seres vivos
 
 43. Quando começou a Terra a ser povoada?
 
@@ -796,7 +796,7 @@ A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para forma
 ---
 
 
-#### [Povoamento da Terra. Adão](#lde.1.3.03)
+#### Povoamento da Terra. Adão
 
 50. A espécie humana começou por um único homem?
 
@@ -811,7 +811,7 @@ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobrevive
 ---
 
 
-#### [Diversidade das raças humanas](#lde.1.3.04)
+#### Diversidade das raças humanas
 
 52. Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
 
@@ -832,7 +832,7 @@ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobrevive
 ---
 
 
-#### [Pluralidade dos mundos](#lde.1.3.05)
+#### Pluralidade dos mundos
 
 55. São habitados todos os globos que se movem no Espaço?
 
@@ -857,7 +857,7 @@ As condições de existência dos seres que habitam os diferentes mundos hão de
 ---
 
 
-#### [Considerações e concordâncias bíblicas concernentes à Criação](#lde.1.3.06)
+#### Considerações e concordâncias bíblicas concernentes à Criação
 
 59. Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
 
@@ -880,9 +880,9 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 ---
 
 
-### [4. Do princípio vital](#lde.1.4)
+### 4. Do princípio vital
 ---
-#### [Seres orgânicos e inorgânicos](#lde.1.4.1)
+#### Seres orgânicos e inorgânicos
 
 *Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria.
 Tais são os minerais, a água, o ar etc.*
@@ -930,7 +930,7 @@ Tais são os minerais, a água, o ar etc.*
 O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade aquele agente, quase como sucede com o atrito, que desenvolve o calor. ❦
 
 ---
-#### [A vida e a morte](#lde.1.4.2)
+#### A vida e a morte
 
 68. Qual a causa da morte dos seres orgânicos?
 
@@ -957,7 +957,7 @@ A quantidade de fluido vital se esgota. Pode tornar-se insuficiente para a conse
 O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se. ❦
 
 ---
-#### [Inteligência e instinto](#lde.1.4.3)
+#### Inteligência e instinto
 
 71. A inteligência é atributo do princípio vital?
 
@@ -1004,9 +1004,9 @@ O instinto varia em suas manifestações, conforme as espécies e as suas necess
 ---
 
 `lde.2`
-## [Parte 2. Do mundo espírita](#lde.2)
+## Parte 2. Do mundo espírita
 
-### [01. Dos Espíritos](#lde.2.01)
+### 01. Dos Espíritos
 ---
 
 
@@ -1388,7 +1388,7 @@ Satanás é evidentemente a personificação do mal sob forma alegórica, visto 
 ---
 
 
-### [02. Da encarnação dos espíritos](#lde.2.02)
+### 02. Da encarnação dos espíritos
 
 ---
 
@@ -1536,7 +1536,7 @@ Não tem este quadro alguma coisa de horrível, de glacial? A religião ensina q
 ---
 
 
-### [03. Da volta do Espírito à vida espiritual](#lde.2.03)
+### 03. Da volta do Espírito à vida espiritual
 
 ---
 
@@ -1668,7 +1668,7 @@ Nos casos de morte coletiva, tem sido observado que todos os que perecem ao mesm
 ---
 
 
-### [04. Da pluralidade das existências](#lde.2.04)
+### 04. Da pluralidade das existências
 
 ---
 
@@ -2093,7 +2093,7 @@ Veja LDE-q216
 >“Esta doutrina é tão antiga quanto o mundo; tal o motivo por que em toda parte a encontramos, o que constitui prova de que é verdadeira. Conservando a intuição do seu estado de Espírito, o Espírito encarnado tem, instintivamente, consciência do mundo invisível, mas os preconceitos bastas vezes falseiam essa ideia e a ignorância lhe mistura a superstição.” ❦
 
 ---
-### [05. Considerações sobre a pluralidade das existências](#lde.2.05)
+### 05. Considerações sobre a pluralidade das existências
 
 222. Não é novo, dizem alguns, o dogma da reencarnação; ressuscitaram-no da doutrina de Pitágoras. Nunca dissemos ser de invenção moderna a Doutrina Espírita. Constituindo uma Lei da Natureza, o Espiritismo há de ter existido desde a origem dos tempos e sempre nos esforçamos por demonstrar que dele se descobrem sinais na antiguidade mais remota. Pitágoras, como se sabe, não foi o autor do sistema da metempsicose; ele o colheu dos filósofos indianos e dos egípcios, que o tinham desde tempos imemoriais. A ideia da transmigração das almas formava, pois, uma crença vulgar, aceita pelos homens mais eminentes. De que modo a adquiriram? Por uma revelação ou por intuição? Ignoramo-lo. Seja, porém, como for, o que não padece dúvida é que uma ideia não atravessa séculos e séculos, nem consegue impor-se a inteligências de escol, se não contiver algo de sério. Assim, a ancianidade desta Doutrina, em vez de ser uma objeção, seria prova a seu favor. Contudo, entre a metempsicose dos antigos e a moderna doutrina da reencarnação, há, como também se sabe, profunda diferença, assinalada pelo fato de os Espíritos rejeitarem, de maneira absoluta, a transmigração da alma do homem para os animais e reciprocamente.
 
@@ -2155,7 +2155,7 @@ As próprias palavras de Jesus não permitem dúvida a tal respeito. Eis o que s
 ---
 
 
-### [06. Da vida espírita](#lde.2.06)
+### 06. Da vida espírita
 
 ---
 
@@ -2862,7 +2862,7 @@ No tocante às qualidades íntimas, os Espíritos são de diferentes ordens, ou 
 ---
 
 
-### [07. Da volta do Espírito à vida corporal](#lde.2.07)
+### 07. Da volta do Espírito à vida corporal
 
 ---
 
@@ -3278,7 +3278,7 @@ A natureza dessas vicissitudes e das provas que sofremos também nos podem escla
 ---
 
 
-### [08. Da emancipação da alma](#lde.2.08)
+### 08. Da emancipação da alma
 
 ---
 
@@ -3639,7 +3639,7 @@ O sonambulismo natural e artificial, o êxtase e a dupla vista são efeitos vár
 ---
 
 
-### [09. Da intervenção dos Espíritos no mundo corporal](#lde.2.09)
+### 09. Da intervenção dos Espíritos no mundo corporal
 
 
 
@@ -4277,7 +4277,7 @@ O Espiritismo e o magnetismo nos dão a chave de uma imensidade de fenômenos so
 ---
 
 
-### [10. Das ocupações e missões dos Espíritos](#lde.2.10)
+### 10. Das ocupações e missões dos Espíritos
 
 558. Alguma outra coisa incumbe aos Espíritos fazer, que não seja melhorarem-se pessoalmente?
 
@@ -4442,7 +4442,7 @@ Os impuros ou imperfeitos aguardam, em sofrimentos e angústias, o momento em qu
 ---
 
 
-### [11. Dos três reinos](#lde.2.11)
+### 11. Dos três reinos
 
 ---
 
@@ -4636,13 +4636,13 @@ Quanto às relações misteriosas que existem entre o homem e os animais, isso, 
 ---
 
 `lde.3`
-## [Parte 3. Das Leis morais](#lde.3)
+## Parte 3. Das Leis morais
 
-### [01. Da lei divina ou natural](#lde.3.01)
+### 01. Da lei divina ou natural
 ---
 
 
-#### [Caracteres da lei natural](#lde.3.01.01)
+#### Caracteres da lei natural
 
 614. Que se deve entender por lei natural?
 
@@ -4838,7 +4838,7 @@ ensinado por Jesus?
 ---
 
 
-### [02. Da lei de adoração](#lde.3.02)
+### 02. Da lei de adoração
 
 ---
 
@@ -5020,7 +5020,7 @@ b) Então, de acordo com a explicação que vindes de dar, não foi de um sentim
 ---
 
 
-### [03. Da lei do trabalho](#lde.3.03)
+### 03. Da lei do trabalho
 
 ---
 
@@ -5095,7 +5095,7 @@ Considerando-se a aluvião de indivíduos que todos os dias são lançados na to
 ---
 
 
-### [04. Da lei de reprodução](#lde.3.04)
+### 04. Da lei de reprodução
 
 ---
 
@@ -5215,7 +5215,7 @@ Deve ser considerada como um uso ou legislação especial apropriada a certos co
 ---
 
 
-### [05. Da lei de conservação](#lde.3.05)
+### 05. Da lei de conservação
 
 ---
 
@@ -5376,7 +5376,7 @@ Nada tem de absoluto o limite entre o necessário e o supérfluo. A civilizaçã
 ---
 
 
-### [06. Da lei de destruição](#lde.3.06)
+### 06. Da lei de destruição
 
 ---
 
@@ -5614,7 +5614,7 @@ que se aplica a pena de morte?
 ---
 
 
-### [07. Da lei de sociedade](#lde.3.07)
+### 07. Da lei de sociedade
 
 ---
 
@@ -5690,7 +5690,7 @@ família?
 ---
 
 
-### [08. Da lei do progresso](#lde.3.08)
+### 08. Da lei do progresso
 
 ---
 
@@ -5894,7 +5894,7 @@ As ideias só com o tempo se transformam; nunca de súbito. De geração em gera
 ---
 
 
-### [09. Da lei de igualdade](#lde.3.09)
+### 09. Da lei de igualdade
 
 ---
 
@@ -6041,7 +6041,7 @@ O túmulo é o ponto de reunião de todos os homens. Aí terminam inelutavelment
 ---
 
 
-### [10. Da lei de liberdade](#lde.3.10)
+### 10. Da lei de liberdade
 
 ---
 
@@ -6268,7 +6268,7 @@ Todos os Espíritos, mais ou menos bons, quando encarnados, constituem a espéci
 ---
 
 
-### [11. Da lei de justiça, de amor, e de caridade](#lde.3.11)
+### 11. Da lei de justiça, de amor, e de caridade
 
 ---
 
@@ -6381,7 +6381,7 @@ A caridade, segundo Jesus, não se restringe à esmola, abrange todas as relaç�
 ---
 
 
-### [12. Da perfeição moral](#lde.3.12)
+### 12. Da perfeição moral
 
 ---
 
@@ -6549,72 +6549,72 @@ Muitas faltas que cometemos nos passam despercebidas. Se, efetivamente, seguindo
 ---
 
 `lde.4`
-## [Parte 4. Das esperanças e consolações](#lde.4)
+## Parte 4. Das esperanças e consolações
 ---
 
-### [1. Das penas e gozos terrestres](#lde.4.1)
+### 1. Das penas e gozos terrestres
 ---
 
-#### [Felicidade e infelicidade relativas](#lde.4.1.01)
+#### Felicidade e infelicidade relativas
 ---
 
-#### [Perda dos entes queridos](#lde.4.1.02)
+#### Perda dos entes queridos
 ---
 
-#### [Decepções. Ingratidão. Afeições destruídas](#lde.4.1.03)
+#### Decepções. Ingratidão. Afeições destruídas
 ---
 
-#### [Uniões antipáticas](#lde.4.1.04)
+#### Uniões antipáticas
 ---
 
-#### [Temor da morte](#lde.4.1.05)
+#### Temor da morte
 ---
 
-#### [Desgosto da vida. Suicídio](#lde.4.1.06)
+#### Desgosto da vida. Suicídio
 
  ❦
 
 ---
 
 
-### [2. Das penas e gozos futuros](#lde.4.2)
+### 2. Das penas e gozos futuros
 ---
 
-#### [O nada. Vida futura](#lde.4.2.01)
+#### O nada. Vida futura
 ---
 
-#### [Intuição das penas e gozos futuros](#lde.4.2.02)
+#### Intuição das penas e gozos futuros
 ---
 
-#### [Intervenção de Deus nas penas e recompensas](#lde.4.2.03)
+#### Intervenção de Deus nas penas e recompensas
 ---
 
-#### [Natureza das penas e gozos futuros](#lde.4.2.04)
+#### Natureza das penas e gozos futuros
 ---
 
-#### [Penas temporais](#lde.4.2.05)
+#### Penas temporais
 ---
 
-#### [Expiação e arrependimento](#lde.4.2.06)
+#### Expiação e arrependimento
 ---
 
-#### [Duração das penas futuras](#lde.4.2.07)
+#### Duração das penas futuras
 ---
 
-#### [Ressurreição da carne](#lde.4.2.08)
+#### Ressurreição da carne
 ---
 
-#### [Paraíso, inferno e purgatório](#lde.4.2.09)
+#### Paraíso, inferno e purgatório
 
  ❦
 
 ---
 
 `lde.5`
-## [Parte 5. Conclusão](#lde.5)
+## Parte 5. Conclusão
 ---
 
-### [01](#lde.5.1)
+### 01
 
 Quem, de magnetismo terrestre, apenas conhecesse o brinquedo dos patinhos imantados que, sob a ação do ímã, se movimentam em todas as direções numa bacia com água, dificilmente poderia compreender que ali está o segredo do mecanismo do Universo e da marcha dos mundos. O mesmo se dá com quem, do Espiritismo, apenas conhece o movimento das mesas, no qual só vê um divertimento, um passatempo, sem compreender que esse fenômeno tão simples e vulgar, que a antiguidade e até povos semisselvagens conheceram, possa ter ligação com as mais graves questões da ordem social. Efetivamente, para o observador superficial, que relação pode ter com a moral e o futuro da Humanidade uma mesa que se move? Quem quer, porém, que reflita se lembrará de que de uma simples panela a ferver e cuja tampa se erguia continuamente, fato que também ocorre desde toda a antiguidade, saiu o possante motor com que o homem transpõe o espaço e suprime as distâncias.
 Pois bem! sabei, vós que não credes senão no que pertence ao mundo material, que dessa mesa, que gira e vos faz sorrir desdenhosamente, saiu uma ciência, assim como a solução dos problemas que nenhuma filosofia pudera ainda resolver. Apelo para todos os adversários de boa-fé e os adjuro a que digam se se deram ao trabalho de estudar o que criticam. Porque, em boa lógica, a crítica só tem valor quando o crítico é conhecedor daquilo de que fala. Zombar de uma coisa que se não conhece, que se não sondou com o escalpelo do observador consciencioso, não é criticar, é dar prova de leviandade e triste mostra de falta de critério. Certamente que, se houvéssemos apresentado esta filosofia como obra de um cérebro humano, menos desdenhoso tratamento encontraria e teria merecido as honras do exame dos que pretendem dirigir a opinião. Vem ela, porém, dos Espíritos. Que absurdo! Mal lhe dispensam um simples olhar. Julgam-na pelo título, como o macaco da fábula julgava da noz pela casca.
@@ -6623,7 +6623,7 @@ Fazei, se quiserdes, abstração da sua origem. Suponde que este livro é obra d
 ---
 
 
-### [02](#lde.5.2)
+### 02
 
 O Espiritismo é o mais terrível antagonista do materialismo; não é, pois, de admirar que tenha por adversários os materialistas. Como o materialismo é uma doutrina cujos adeptos mal ousam confessar que o são (prova de que não se consideram muito fortes e têm a dominá-los a consciência), eles se acobertam com o manto da razão e da ciência. E, coisa estranha, os mais céticos chegam a falar em nome da religião, que não conhecem e não compreendem melhor que ao Espiritismo. Por ponto de mira tomam o maravilhoso e o sobrenatural, que não admitem. Ora, dizem, pois que o Espiritismo se funda no maravilhoso, não pode deixar de ser uma suposição ridícula. Não refletem que, condenando, sem restrições, o maravilhoso e o sobrenatural, também condenam a religião.
 Com efeito, a religião se funda na revelação e nos milagres. Ora, que é a revelação, senão um conjunto de comunicações extraterrenas? Todos os autores sagrados, desde Moisés, têm falado dessa espécie de comunicações. Que são os milagres, senão fatos maravilhosos e sobrenaturais, por excelência, visto que, no sentido litúrgico, constituem derrogações das Leis da Natureza? Logo, rejeitando o maravilhoso e o sobrenatural, eles rejeitam as bases mesmas da religião. Não é deste ponto de vista, porém, que devemos encarar a questão.
@@ -6633,7 +6633,7 @@ Assim, pois, o Espiritismo se apoia menos no maravilhoso e no sobrenatural do qu
 ---
 
 
-### [03](#lde.5.3)
+### 03
 
 Dizeis que desejais curar o vosso século de uma mania que ameaça invadir o mundo. Preferiríeis que o mundo fosse invadido pela incredulidade que procurais propagar? A que se deve atribuir o relaxamento dos laços de família e a maior parte das desordens que minam a sociedade, senão à ausência de toda crença? Demonstrando a existência e a imortalidade da alma, o Espiritismo reaviva a fé no futuro, levanta os ânimos abatidos, faz suportar com resignação as vicissitudes da vida. Ousaríeis chamar a isto um mal? Duas doutrinas se defrontam: uma, que nega o futuro; outra, que lhe proclama e prova a existência; uma, que nada explica, outra, que explica tudo e que, por isso mesmo, se dirige à razão; uma, que é a sanção do egoísmo; outra, que oferece base à justiça, à caridade e ao amor do próximo. A primeira somente mostra o presente e aniquila toda esperança; a segunda consola e desvenda o vasto campo do futuro. Qual a mais perniciosa?
 Algumas pessoas, dentre as mais céticas, se fazem apóstolos da fraternidade e do progresso, mas a fraternidade pressupõe desinteresse, abnegação da personalidade. Onde há verdadeira fraternidade, o orgulho é uma anomalia. Com que direito impondes um sacrifício àquele a quem dizeis que, com a morte, tudo se lhe acabará; que amanhã, talvez, ele não será mais do que uma velha máquina desmantelada e atirada ao monturo? Que razões terá ele para impor a si mesmo uma privação qualquer? Não será mais natural que trate de viver o melhor possível, durante os breves instantes que lhe concedeis? Daí o desejo de possuir muito para melhor gozar. Do desejo nasce a inveja dos que possuem mais e, dessa inveja à vontade de apoderar-se do que a estes pertence, o passo é curto. Que é que o detém? A lei? A lei, porém, não abrange todos os casos. Direis que a consciência, o sentimento do dever, mas em que baseais o sentimento do dever? Terá razão de ser esse sentimento, de par com a crença de que tudo se acaba com a vida? Onde essa crença exista, uma só máxima é racional: cada um por si, não passando de vãs palavras as ideias de fraternidade, de consciência, de dever, de humanidade, mesmo de progresso.
@@ -6642,7 +6642,7 @@ Oh! vós que proclamais semelhantes doutrinas, não sabeis quão grande é o mal
 ---
 
 
-### [04](#lde.5.4) [^26]
+### 04 [^26]
 
 O progresso da Humanidade tem seu princípio na aplicação da lei de justiça, de amor e de caridade, lei que se funda na certeza do futuro. Tirai-lhe essa certeza e lhe tirareis a pedra fundamental. Dessa lei derivam todas as outras, porque ela encerra todas as condições da felicidade do homem. Só ela pode curar as chagas da sociedade. Comparando as idades e os povos, pode ele avaliar quanto a sua condição melhora, à medida que essa lei vai sendo mais bem compreendida e melhor praticada. Ora, se, aplicando-a parcial e incompletamente, aufere o homem tanto bem, que não conseguirá quando fizer dela a base de todas as suas instituições sociais! Será isso possível? Certo, porquanto, desde que ele já deu dez passos, possível lhe é dar vinte e assim por diante.
 Do futuro se pode, pois, julgar pelo passado. Já vemos que pouco a pouco se extinguem as antipatias de povo para povo. Diante da civilização, diminuem as barreiras que os separavam. De um extremo a outro do mundo, eles se estendem as mãos. Maior justiça preside à elaboração das leis internacionais. As guerras se tornam cada vez mais raras e não excluem os sentimentos de humanidade. Nas relações, a uniformidade se vai estabelecendo. Apagam-se as distinções de raças e de castas e os que professam crenças diversas impõem silêncio aos prejuízos de seita, para se confundirem na adoração de um único Deus. Falamos dos povos que marcham à testa da civilização. (789 e 793)
@@ -6655,7 +6655,7 @@ Quando, porém, conseguir a soma de gozos que o progresso intelectual lhe pode p
 ---
 
 
-### [05](#lde.5.5)
+### 05
 
 Os que dizem que as crenças espíritas ameaçam invadir o mundo, proclamam, ipso facto, a força do Espiritismo, porque jamais poderia tornar-se universal uma ideia sem fundamento e destituída de lógica. Assim, se o Espiritismo se implanta por toda parte, se, principalmente nas classes cultas, recruta adeptos, como todos facilmente reconhecerão, é que tem um fundo de verdade. Baldados, contra essa tendência, serão todos os esforços dos seus detratores e a prova é que o próprio ridículo, de que procuram cobri-lo, longe de lhe amortecer o ímpeto, parece ter-lhe dado novo vigor, resultado que plenamente justifica o que repetidas vezes os Espíritos hão dito: “Não vos inquieteis com a oposição; tudo o que contra vós fizerem se tornará a vosso favor e os vossos maiores adversários, sem o quererem, servirão à vossa causa. Contra a vontade de Deus não poderá prevalecer a má vontade dos homens”.
 Por meio do Espiritismo, a Humanidade tem que entrar numa nova fase, a do progresso moral que lhe é consequência inevitável. Não mais, pois, vos espanteis da rapidez com que as ideias espíritas se propagam. A causa dessa celeridade reside na satisfação que trazem a todos os que as aprofundam e que nelas veem alguma coisa mais do que fútil passatempo. Ora, como cada um o que acima de tudo quer é a sua felicidade, nada há de surpreendente em que cada um se apegue a uma ideia que faz ditosos os que a esposam.
@@ -6668,7 +6668,7 @@ Que compensação ofereceis aos sofrimentos deste mundo, vós cuja doutrina cons
 ---
 
 
-### [06](#lde.5.6)
+### 06
 
 Falsíssima ideia formaria do Espiritismo quem julgasse que a sua força lhe vem da prática das manifestações materiais e que, portanto, obstando-se a tais manifestações, se lhe terá minado a base. Sua força está na sua filosofia, no apelo que dirige à razão, ao bom senso. Na antiguidade, era objeto de estudos misteriosos, que cuidadosamente se ocultavam do vulgo. Hoje, para ninguém tem segredos. Fala uma linguagem clara, sem ambiguidades. Nada há nele de místico, nada de alegorias suscetíveis de falsas interpretações. Quer ser por todos compreendido, porque chegados são os tempos de fazer-se que os homens conheçam a verdade. Longe de se opor à difusão da luz, deseja-a para todo o mundo. Não reclama crença cega; quer que o homem saiba por que crê. Apoiando-se na razão, será sempre mais forte do que os que se apoiam no nada.
 Os obstáculos que tentassem oferecer à liberdade das manifestações poderiam pôr-lhe fim? Não, porque produziriam o efeito de todas as perseguições: o de excitar a curiosidade e o desejo de conhecer o que foi proibido. De outro lado, se as manifestações espíritas fossem privilégio de um único homem, sem dúvida que, segregado esse homem, as manifestações cessariam. Infelizmente para os seus adversários, elas estão ao alcance de toda gente e todos a elas recorrem, desde o mais pequenino até o mais graduado, desde o palácio até a mansarda. Poderão proibir que sejam obtidas em público. Sabe-se, porém, precisamente que em público não é onde melhor se dão e sim na intimidade. Ora, podendo todos ser médiuns, quem poderá impedir que uma família, no seu lar; um indivíduo, no silêncio de seu gabinete; o prisioneiro, no seu cubículo, entrem em comunicação com os Espíritos, a despeito dos esbirros e mesmo na presença deles? Se as proibirem num país, poderão obstar a que se verifiquem nos países vizinhos, no mundo inteiro, uma vez que nos dois continentes não há lugar onde não existam médiuns? Para se encarcerarem todos os médiuns, preciso fora que se encarcerasse a metade do gênero humano. Chegassem mesmo, o que não seria mais fácil, a queimar todos os livros espíritas e no dia seguinte estariam reproduzidos, porque inatacável é a fonte donde dimanam e porque ninguém pode encarcerar ou queimar os Espíritos, seus verdadeiros autores.
@@ -6679,7 +6679,7 @@ Que interesse, ademais, haveria em obstar-se a propagação das ideias espírita
 ---
 
 
-### [07](#lde.5.7)
+### 07
 
 O Espiritismo se apresenta sob três aspectos diferentes: o das manifestações, o dos princípios e da filosofia que delas decorrem e o da aplicação desses princípios. Daí, três classes, ou, antes, três graus de adeptos: 1o  os que creem nas manifestações e se limitam a comprová-las; para esses, o Espiritismo é uma ciência experimental; 2o  os que lhe percebem as consequências morais; 3o  os que praticam ou se esforçam por praticar essa moral. Qualquer que seja o ponto de vista, científico ou moral, sob que considerem esses estranhos fenômenos, todos compreendem constituírem eles uma ordem, inteiramente nova, de ideias, que surge e da qual não pode deixar de resultar uma profunda modificação no estado da Humanidade e compreendem igualmente que essa modificação não pode deixar de operar-se no sentido do bem.
 Quanto aos adversários, também podemos classificá-los em três categorias.
@@ -6699,7 +6699,7 @@ O terceiro efeito é o de estimular no homem a indulgência para com os defeitos
 ---
 
 
-### [08](#lde.5.8)
+### 08
 
 Perguntam algumas pessoas: Ensinam os Espíritos qualquer moral nova, qualquer coisa superior ao que disse o Cristo? Se a moral deles não é senão a do Evangelho, de que serve o Espiritismo? Este raciocínio se assemelha notavelmente ao do califa Omar, com relação à Biblioteca de Alexandria: “Se ela não contém”, dizia ele, “mais do que o que está no Alcorão, é inútil. Logo deve ser queimada. Se contém coisa diversa, é nociva. Logo, também deve ser queimada”. 
 Não, o Espiritismo não traz moral diferente da de Jesus. Perguntamos, então, por nossa vez: Antes que viesse o Cristo, não tinham os homens a lei dada por Deus a Moisés? A doutrina do Cristo não se acha contida no Decálogo? Dir-se-á, por isso, que a moral de Jesus era inútil? Perguntaremos, ainda, aos que negam utilidade à moral espírita: Por que tão pouco praticada é a do Cristo? E por que, exatamente os que com justiça lhe proclamam a sublimidade, são os primeiros a violar-lhe o preceito capital: o da caridade universal? Os Espíritos vêm não só confirmá- -la, mas também mostrar-nos a sua utilidade prática. Tornam inteligíveis e patentes verdades que haviam sido ensinadas sob a forma alegórica. E, justamente com a moral, trazem-nos a definição dos mais abstratos problemas da Psicologia.
@@ -6711,7 +6711,7 @@ As comunicações com os seres de além-túmulo deram em resultado fazer-nos com
 ---
 
 
-### [09](#lde.5.9)
+### 09
 
 Os adversários do Espiritismo não se esqueceram de armar-se contra ele de algumas divergências de opiniões sobre certos pontos de doutrina. Não é de admirar que, no início de uma ciência, quando ainda são incompletas as observações e cada um a considera do seu ponto de vista, apareçam sistemas contraditórios, mas três quartos desses sistemas já caíram diante de um estudo mais aprofundado, a começar pelo que atribuía todas as comunicações ao Espírito do mal, como se a Deus fora impossível enviar bons Espíritos aos homens: doutrina absurda, porque os fatos a desmentem; ímpia, porque importa na negação do poder e da bondade do Criador.
 Os Espíritos sempre disseram que nos não inquietássemos com essas divergências e que a unidade se estabeleceria. Ora, a unidade já se fez quanto à maioria dos pontos e as divergências tendem cada vez mais a desaparecer. Tendo-se-lhes perguntado: Enquanto se não faz a unidade, sobre que pode o homem, imparcial e desinteressado, basear-se para formar juízo? Eles responderam:
@@ -6725,10 +6725,10 @@ Santo Agostinho
 ---
 
 `lde.6`
-## [Parte 6. Pós-textual](#lde.6)
+## Parte 6. Pós-textual
 ---
 
-### [1. Nota explicativa](#lde.6.1) [^27]
+### 1. Nota explicativa [^27]
 
 >Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. Revista Espírita de 1868. 1. ed. Rio de Janeiro: FEB, 2005. p. 28, janeiro de 1868.)
 
@@ -6794,10 +6794,10 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 ---
 
 
-### [2. Índice Geral](#lde.6.2)
+### 2. Índice Geral
 ---
 
-#### [A](#lde.6.2.01)
+#### A
 
 ##### Aberração
 
@@ -7169,7 +7169,7 @@ Avoengos ver Antepassados
 ---
 
 
-#### [B](#lde.6.2.02)
+#### B
 
 ##### Batista, João
 
@@ -7241,7 +7241,7 @@ linguagem figurada e a
 ---
 
 
-#### [C](#lde.6.2.03)
+#### C
 
 ##### Calamidades
 
@@ -7694,7 +7694,7 @@ possibilidade de * da desordem e da imprevidência
 ---
 
 
-#### [D](#lde.6.2.04)
+#### D
 
 ##### Decálogo
 
@@ -7992,7 +7992,7 @@ variações no poder da
 ---
 
 
-#### [E](#lde.6.2.05)
+#### E
 
 ##### Eclesiastes
 
@@ -8671,7 +8671,7 @@ sonambulismo e
 ---
 
 
-#### [F](#lde.6.2.06)
+#### F
 
 ##### Falibilidade
 
@@ -8907,7 +8907,7 @@ vida corpórea e certeza do
 ---
 
 
-#### [G](#lde.6.2.07)
+#### G
 
 ##### Gêmeos 
 
@@ -8957,7 +8957,7 @@ santa
 ---
 
 
-#### [H](#lde.6.2.08)
+#### H
 
 ##### Harmonia 
 
@@ -9052,7 +9052,7 @@ desinteresse e
 ----
 
 
-#### [I](#lde.6.2.09)
+#### I
 
 ##### Ideia 
 
@@ -9333,7 +9333,7 @@ sociedade e
 ---
 
 
-#### [J](#lde.6.2.10)
+#### J
 
 ##### Jesus 
 
@@ -9392,7 +9392,7 @@ consolo do
 ---
 
 
-#### [L](#lde.6.2.11)
+#### L
 
 ##### Laços de família 
 
@@ -9616,7 +9616,7 @@ chegada ao progresso e
 ---
 
 
-#### [M](#lde.6.2.12)
+#### M
 
 ##### Mãe 
 
@@ -9953,7 +9953,7 @@ sensibilidade dos espíritos para a
 ----
 
 
-#### [N](#lde.6.2.13)
+#### N
 
 ##### Nação 
 
@@ -10035,7 +10035,7 @@ importância espiritual do
 ---
 
 
-#### [O](#lde.6.2.14)
+#### O
 
 ##### Obsessão 
 
@@ -10140,7 +10140,7 @@ benefício e
 ---
 
 
-#### [P](#lde.6.2.15)
+#### P
 
 ##### Pactos 
 
@@ -10663,14 +10663,14 @@ aperfeiçoamento moral do Espírito e
 ---
 
 
-#### [Q](#lde.6.2.16)
+#### Q
 
 Queda homem, livre-arbítrio e
 
 ---
 
 
-#### [R](#lde.6.2.17)
+#### R
 
 ##### Raças cruzamento de
 diversidade de * humanas
@@ -10886,7 +10886,7 @@ Ritual adoração e
 ---
 
 
-#### [S](#lde.6.2.18)
+#### S
 
 ##### Sabedoria perfeição e
 ##### Sacrifício animal e adoração
@@ -11143,7 +11143,7 @@ utilização do necessário e
 ---
 
 
-#### [T](#lde.6.2.19)
+#### T
 
 ##### Talismã feiticeiro e
 ##### Temor ver Medo Tempo espíritos e compreensão do
@@ -11229,7 +11229,7 @@ visitação a
 ---
 
 
-#### [U](#lde.6.2.20)
+#### U
 
 ##### Ubiquidade Espírito e
 ##### União almas sem afinidade na
@@ -11253,7 +11253,7 @@ reencarnação e
 ---
 
 
-#### [V](#lde.6.2.21)
+#### V
 
 ##### Vácuo espaço universal e
 ##### Valor da intenção
@@ -11369,7 +11369,7 @@ sociedade e
 ---
 
 
-#### [Z](#lde.6.2.22)
+#### Z
 
 ##### Zelo
 

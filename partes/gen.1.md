@@ -1,9 +1,9 @@
-## [Parte 1. Das causas primárias](#lde.1)
+## Parte 1. Das causas primárias
 
-### [1. De Deus](#lde.1.1)
+### 1. De Deus
 ---
 
-#### [Deus e o infinito](#lde.1.1.01)
+#### Deus e o infinito
 
 [1](#lde.Q1). O que é Deus?
 
@@ -25,7 +25,7 @@
 ---
 
 
-#### [Provas da existência de Deus](#lde.1.1.02)
+#### Provas da existência de Deus
 
 [4](#lde.q4). Onde se pode encontrar a prova da existência de Deus?
 
@@ -62,7 +62,7 @@
 ---
 
 
-#### [Atributos da Divindade](#lde.1.1.03)
+#### Atributos da Divindade
 
 [10](#lde.q10). Pode o homem compreender a natureza íntima de Deus?
 
@@ -90,7 +90,7 @@
 ---
 
 
-#### [Panteísmo](#lde.1.1.04)
+#### Panteísmo
 
 [14](#lde.q14). Deus é um ser distinto, ou será, como opinam alguns, a resultante de todas as forças e de todas as inteligências do Universo reunidas?
 
@@ -109,10 +109,10 @@
 ---
 
 
-### [2. Dos elementos gerais do Universo](#lde.1.2)
+### 2. Dos elementos gerais do Universo
 ---
 
-#### [Conhecimento do princípio das coisas](#lde.1.2.01)
+#### Conhecimento do princípio das coisas
 
 [17](#lde.q17). É dado ao homem conhecer o princípio das coisas?
 
@@ -135,7 +135,7 @@
 ---
 
 
-#### [Espírito e matéria](#lde.1.2.02)
+#### Espírito e matéria
 
 [21](#lde.q21). A matéria existe desde toda a eternidade, como Deus, ou foi criada por Ele em dado momento?
 
@@ -192,7 +192,7 @@ Deste ponto de vista, pode-se dizer que a matéria é o agente, o intermediário
 ---
 
 
-#### [Propriedades da matéria](#lde.1.2.03)
+#### Propriedades da matéria
 
 [29](#lde..q29). A ponderabilidade é um atributo essencial da matéria?
 
@@ -238,7 +238,7 @@ O oxigênio, o hidrogênio, o azoto, o carbono e todos os corpos que consideramo
 ---
 
 
-#### [Espaço universal](#lde.1.2.04)
+#### Espaço universal
 
 35. O Espaço universal é infinito ou limitado?
 
@@ -253,10 +253,10 @@ Supondo-se um limite ao Espaço, por mais distante que a imaginação o coloque,
 ---
 
 
-### [3. Da Criação](#lde.1.3)
+### 3. Da Criação
 ---
 
-#### [Formação dos mundos](#lde.1.3.01)
+#### Formação dos mundos
 
 *O Universo abrange a infinidade dos mundos que vemos e dos que não vemos, todos os seres animados e inanimados, todos os astros que se movem no espaço, assim como os fluidos que o enchem.*
 
@@ -288,7 +288,7 @@ Diz-nos a razão não ser possível que o Universo se tenha feito a si mesmo e q
 ---
 
 
-#### [Formação dos seres vivos](#lde.1.3.02)
+#### Formação dos seres vivos
 
 43. Quando começou a Terra a ser povoada?
 
@@ -323,7 +323,7 @@ A Química nos mostra as moléculas dos corpos inorgânicos unindo-se para forma
 ---
 
 
-#### [Povoamento da Terra. Adão](#lde.1.3.03)
+#### Povoamento da Terra. Adão
 
 50. A espécie humana começou por um único homem?
 
@@ -338,7 +338,7 @@ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobrevive
 ---
 
 
-#### [Diversidade das raças humanas](#lde.1.3.04)
+#### Diversidade das raças humanas
 
 52. Donde provêm as diferenças físicas e morais que distinguem as raças humanas na Terra?
 
@@ -359,7 +359,7 @@ O homem, cuja tradição se conservou sob o nome de Adão, foi dos que sobrevive
 ---
 
 
-#### [Pluralidade dos mundos](#lde.1.3.05)
+#### Pluralidade dos mundos
 
 55. São habitados todos os globos que se movem no Espaço?
 
@@ -384,7 +384,7 @@ As condições de existência dos seres que habitam os diferentes mundos hão de
 ---
 
 
-#### [Considerações e concordâncias bíblicas concernentes à Criação](#lde.1.3.06)
+#### Considerações e concordâncias bíblicas concernentes à Criação
 
 59. Os povos hão formado idéias muito divergentes acerca da Criação, de acordo com as luzes que possuíam. Apoiada na Ciência, a razão reconheceu a inverossimilhança de algumas dessas teorias. A que os Espíritos apresentam confirma a opinião de há muito partilhada pelos homens mais esclarecidos.
 
@@ -407,9 +407,9 @@ Tudo, ao invés, se explica, admitindo-se: que a existência do homem é anterio
 ---
 
 
-### [4. Do princípio vital](#lde.1.4)
+### 4. Do princípio vital
 ---
-#### [Seres orgânicos e inorgânicos](#lde.1.4.1)
+#### Seres orgânicos e inorgânicos
 
 *Os seres orgânicos são os que têm em si uma fonte de atividade íntima que lhes dá a vida. Nascem, crescem, reproduzem-se por si mesmos e morrem. São providos de órgãos especiais para a execução dos diferentes atos da vida, órgãos esses apropriados às necessidades que a conservação própria lhes impõe. Nessa classe estão compreendidos os homens, os animais e as plantas. Seres inorgânicos são todos os que carecem de vitalidade, de movimentos próprios e que se formam apenas pela agregação da matéria.
 Tais são os minerais, a água, o ar etc.*
@@ -457,7 +457,7 @@ Tais são os minerais, a água, o ar etc.*
 O conjunto dos órgãos constitui uma espécie de mecanismo que recebe impulsão da atividade íntima ou princípio vital que entre eles existe. O princípio vital é a força motriz dos corpos orgânicos. Ao mesmo tempo que o agente vital dá impulsão aos órgãos, a ação destes entretém e desenvolve a atividade aquele agente, quase como sucede com o atrito, que desenvolve o calor. ❦
 
 ---
-#### [A vida e a morte](#lde.1.4.2)
+#### A vida e a morte
 
 68. Qual a causa da morte dos seres orgânicos?
 
@@ -484,7 +484,7 @@ A quantidade de fluido vital se esgota. Pode tornar-se insuficiente para a conse
 O fluido vital se transmite de um indivíduo a outro. Aquele que o tiver em maior porção pode dá-lo a um que o tenha de menos e em certos casos prolongar a vida prestes a extinguir-se. ❦
 
 ---
-#### [Inteligência e instinto](#lde.1.4.3)
+#### Inteligência e instinto
 
 71. A inteligência é atributo do princípio vital?
 

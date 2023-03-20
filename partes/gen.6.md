@@ -1,7 +1,7 @@
-## [Parte 6. Pós-textual](#lde.6)
+## Parte 6. Pós-textual
 ---
 
-### [1. Nota explicativa](#lde.6.1) [^27]
+### 1. Nota explicativa [^27]
 
 >Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. Revista Espírita de 1868. 1. ed. Rio de Janeiro: FEB, 2005. p. 28, janeiro de 1868.)
 
@@ -67,10 +67,10 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 ---
 
 
-### [2. Índice Geral](#lde.6.2)
+### 2. Índice Geral
 ---
 
-#### [A](#lde.6.2.01)
+#### A
 
 ##### Aberração
 
@@ -442,7 +442,7 @@ Avoengos ver Antepassados
 ---
 
 
-#### [B](#lde.6.2.02)
+#### B
 
 ##### Batista, João
 
@@ -514,7 +514,7 @@ linguagem figurada e a
 ---
 
 
-#### [C](#lde.6.2.03)
+#### C
 
 ##### Calamidades
 
@@ -967,7 +967,7 @@ possibilidade de * da desordem e da imprevidência
 ---
 
 
-#### [D](#lde.6.2.04)
+#### D
 
 ##### Decálogo
 
@@ -1265,7 +1265,7 @@ variações no poder da
 ---
 
 
-#### [E](#lde.6.2.05)
+#### E
 
 ##### Eclesiastes
 
@@ -1944,7 +1944,7 @@ sonambulismo e
 ---
 
 
-#### [F](#lde.6.2.06)
+#### F
 
 ##### Falibilidade
 
@@ -2180,7 +2180,7 @@ vida corpórea e certeza do
 ---
 
 
-#### [G](#lde.6.2.07)
+#### G
 
 ##### Gêmeos 
 
@@ -2230,7 +2230,7 @@ santa
 ---
 
 
-#### [H](#lde.6.2.08)
+#### H
 
 ##### Harmonia 
 
@@ -2325,7 +2325,7 @@ desinteresse e
 ----
 
 
-#### [I](#lde.6.2.09)
+#### I
 
 ##### Ideia 
 
@@ -2606,7 +2606,7 @@ sociedade e
 ---
 
 
-#### [J](#lde.6.2.10)
+#### J
 
 ##### Jesus 
 
@@ -2665,7 +2665,7 @@ consolo do
 ---
 
 
-#### [L](#lde.6.2.11)
+#### L
 
 ##### Laços de família 
 
@@ -2889,7 +2889,7 @@ chegada ao progresso e
 ---
 
 
-#### [M](#lde.6.2.12)
+#### M
 
 ##### Mãe 
 
@@ -3226,7 +3226,7 @@ sensibilidade dos espíritos para a
 ----
 
 
-#### [N](#lde.6.2.13)
+#### N
 
 ##### Nação 
 
@@ -3308,7 +3308,7 @@ importância espiritual do
 ---
 
 
-#### [O](#lde.6.2.14)
+#### O
 
 ##### Obsessão 
 
@@ -3413,7 +3413,7 @@ benefício e
 ---
 
 
-#### [P](#lde.6.2.15)
+#### P
 
 ##### Pactos 
 
@@ -3936,14 +3936,14 @@ aperfeiçoamento moral do Espírito e
 ---
 
 
-#### [Q](#lde.6.2.16)
+#### Q
 
 Queda homem, livre-arbítrio e
 
 ---
 
 
-#### [R](#lde.6.2.17)
+#### R
 
 ##### Raças cruzamento de
 diversidade de * humanas
@@ -4159,7 +4159,7 @@ Ritual adoração e
 ---
 
 
-#### [S](#lde.6.2.18)
+#### S
 
 ##### Sabedoria perfeição e
 ##### Sacrifício animal e adoração
@@ -4416,7 +4416,7 @@ utilização do necessário e
 ---
 
 
-#### [T](#lde.6.2.19)
+#### T
 
 ##### Talismã feiticeiro e
 ##### Temor ver Medo Tempo espíritos e compreensão do
@@ -4502,7 +4502,7 @@ visitação a
 ---
 
 
-#### [U](#lde.6.2.20)
+#### U
 
 ##### Ubiquidade Espírito e
 ##### União almas sem afinidade na
@@ -4526,7 +4526,7 @@ reencarnação e
 ---
 
 
-#### [V](#lde.6.2.21)
+#### V
 
 ##### Vácuo espaço universal e
 ##### Valor da intenção
@@ -4642,7 +4642,7 @@ sociedade e
 ---
 
 
-#### [Z](#lde.6.2.22)
+#### Z
 
 ##### Zelo
 
