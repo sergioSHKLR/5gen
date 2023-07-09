@@ -1,7 +1,7 @@
 Status de nossos *repos*:
 
-- 1lde - release mais recente 2023.06.10b1
-- 2ldm - em desenvolvimento
-- 3ese - não iniciado
-- 4ceu - não iniciado
-- 5gen - não iniciado 
+- LDE - release mais recente 2023.07.09
+- LDM - em desenvolvimento
+- ESE - não iniciado
+- CEU - não iniciado
+- GEN - não iniciado 
